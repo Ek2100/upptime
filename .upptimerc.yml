@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Rock Paper Scissors API
     url: https://rps-api.eliaskhoury1.repl.co/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
 
 status-website:
   baseUrl: /upptime
