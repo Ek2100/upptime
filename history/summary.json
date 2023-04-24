@@ -4,19 +4,19 @@
     "url": "https://rps-api.eliaskhoury1.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/rps-api.eliaskhoury1.repl.co.ico",
     "slug": "rock-paper-scissors-api",
-    "status": "down",
-    "uptime": "74.15%",
-    "uptimeDay": "74.15%",
-    "uptimeWeek": "74.15%",
-    "uptimeMonth": "74.15%",
-    "uptimeYear": "74.15%",
-    "time": 4991,
-    "timeDay": 4991,
-    "timeWeek": 4991,
-    "timeMonth": 4991,
-    "timeYear": 4991,
+    "status": "up",
+    "uptime": "62.13%",
+    "uptimeDay": "62.13%",
+    "uptimeWeek": "62.13%",
+    "uptimeMonth": "62.13%",
+    "uptimeYear": "62.13%",
+    "time": 3185,
+    "timeDay": 3185,
+    "timeWeek": 3185,
+    "timeMonth": 3185,
+    "timeYear": 3185,
     "dailyMinutesDown": {
-      "2023-04-24": 5
+      "2023-04-24": 8
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {}
   }
 ]
