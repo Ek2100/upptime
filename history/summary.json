@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rps-api.eliaskhoury1.repl.co.ico",
     "slug": "rock-paper-scissors-api",
     "status": "up",
-    "uptime": "97.69%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "97.69%",
-    "time": 1110,
-    "timeDay": 316,
-    "timeWeek": 448,
-    "timeMonth": 878,
-    "timeYear": 1110,
+    "uptimeYear": "97.73%",
+    "time": 1089,
+    "timeDay": 212,
+    "timeWeek": 388,
+    "timeMonth": 855,
+    "timeYear": 1089,
     "dailyMinutesDown": {
       "2023-05-25": 16,
       "2023-05-24": 36,
@@ -26,6 +26,26 @@
       "2023-04-27": 1031,
       "2023-04-26": 22,
       "2023-04-24": 8
+    }
+  },
+  {
+    "name": "Disboard Pinger",
+    "url": "https://disboard-auto-bump-selfbot.eliaskhoury1.repl.co",
+    "icon": "https://icons.duckduckgo.com/ip3/disboard-auto-bump-selfbot.eliaskhoury1.repl.co.ico",
+    "slug": "disboard-pinger",
+    "status": "down",
+    "uptime": "89.08%",
+    "uptimeDay": "89.08%",
+    "uptimeWeek": "89.08%",
+    "uptimeMonth": "89.08%",
+    "uptimeYear": "89.08%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-06-18": 0
     }
   }
 ]
