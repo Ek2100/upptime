@@ -71,18 +71,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eliask.tech.ico",
     "slug": "my-website",
     "status": "down",
-    "uptime": "6.60%",
-    "uptimeDay": "6.60%",
-    "uptimeWeek": "6.60%",
-    "uptimeMonth": "6.60%",
-    "uptimeYear": "6.60%",
+    "uptime": "2.12%",
+    "uptimeDay": "2.12%",
+    "uptimeWeek": "2.12%",
+    "uptimeMonth": "2.12%",
+    "uptimeYear": "2.12%",
     "time": 120,
     "timeDay": 120,
     "timeWeek": 120,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-07-05": 0
+      "2023-07-05": 1
     }
   }
 ]
