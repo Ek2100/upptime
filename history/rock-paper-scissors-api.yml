@@ -1,7 +1,7 @@
 url: https://rps-api.eliaskhoury1.repl.co/
-status: up
-code: 200
-responseTime: 531
-lastUpdated: 2023-07-19T23:10:44.771Z
+status: down
+code: 502
+responseTime: 10931
+lastUpdated: 2023-07-20T05:41:27.521Z
 startTime: Mon Apr 24 2023 11:25:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
