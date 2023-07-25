@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rps-api.eliaskhoury1.repl.co.ico",
     "slug": "rock-paper-scissors-api",
     "status": "up",
-    "uptime": "97.78%",
+    "uptime": "97.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "97.40%",
-    "uptimeYear": "97.78%",
+    "uptimeYear": "97.79%",
     "time": 1673,
     "timeDay": 2181,
     "timeWeek": 2730,
@@ -105,7 +105,7 @@
     "url": "https://discord-token-invalidator.eliaskhoury1.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/discord-token-invalidator.eliaskhoury1.repl.co.ico",
     "slug": "discord-token-invalidator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
     "uptimeDay": "98.56%",
     "uptimeWeek": "99.45%",
@@ -117,6 +117,7 @@
     "timeMonth": 5129,
     "timeYear": 5129,
     "dailyMinutesDown": {
+      "2023-07-25": 0,
       "2023-07-24": 21
     }
   }
