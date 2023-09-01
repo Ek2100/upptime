@@ -1,7 +1,7 @@
 url: https://disboard-auto-bump-selfbot.eliaskhoury1.repl.co
-status: up
-code: 200
-responseTime: 8029
-lastUpdated: 2023-09-01T00:27:42.763Z
+status: down
+code: 502
+responseTime: 24306
+lastUpdated: 2023-09-01T04:30:55.803Z
 startTime: 2023-06-18T01:40:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
