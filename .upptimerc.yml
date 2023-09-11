@@ -5,12 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Rock Paper Scissors API
     url: https://rps-api.eliaskhoury1.repl.co/
-  - name: Disboard Pinger
-    url: https://disboard-auto-bump-selfbot.eliaskhoury1.repl.co
-  - name: My Website
-    url: https://eliask01.vercel.app
-  - name: Discord Token Invalidator
-    url: https://discord-token-invalidator.eliaskhoury1.repl.co/
+
 
 status-website:
   baseUrl: /upptime
