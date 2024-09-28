@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rps-api.eliaskhoury1.repl.co.ico",
     "slug": "rock-paper-scissors-api",
     "status": "up",
-    "uptime": "94.84%",
+    "uptime": "94.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.20%",
-    "time": 859,
-    "timeDay": 1068,
-    "timeWeek": 827,
-    "timeMonth": 839,
-    "timeYear": 764,
+    "time": 860,
+    "timeDay": 1070,
+    "timeWeek": 842,
+    "timeMonth": 852,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2024-02-07": 1367,
       "2024-02-06": 1440,
@@ -44,8 +44,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 275,
       "2023-10-05": 26,
-      "2023-09-30": 874,
-      "2023-09-29": 49
+      "2023-09-30": 874
     }
   }
 ]
